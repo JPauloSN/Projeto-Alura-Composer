@@ -1,11 +1,11 @@
 {
-    "name": "cviniciussdias/buscador-cursos",
+    "name": "jpaulo/buscador-cursos",
     "description": "Projeto que busca os cursos no site da Alura",
     "type": "library",
     "authors": [
         {
-            "name": "Vinicius Dias",
-            "email": "carlosv775@gmail.com"
+            "name": "João Paulo",
+            "email": "jpsantongr@gmail.com"
         }
     ],
     "require": {
